@@ -18,7 +18,7 @@ function OUROFFER() {
     <p className="text-red-500 text-lg md:text-2xl font-bold  p-2 slide-in-left">
     PIZZA OF THE DAY
     </p>
-    <h1 className="text-white text-4xl md:text-6xl lg:text-8xl font-semibold mt-2 slide-in-left">
+    <h1 className="text-white text-2xl md:text-6xl lg:text-8xl font-semibold mt-2 slide-in-left">
     SPICY SICILIANA
     </h1>
     <button className="bg-[#75d007] hover:text-white border border-[#75d007] text-white font-semibold py-2 md:py-3 px-2 md:px-6 hover:bg-transparent hover:text-black transition duration-300 mt-4 slide-in-left">
