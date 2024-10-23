@@ -15,7 +15,7 @@ function OUROFFER() {
 >
   <NavHeader />
   <div className="container mx-auto h-full flex flex-col justify-center items-center text-left p-8 space-y-4">
-    <p className="text-white text-lg md:text-2xl font-bold  p-2 slide-in-left">
+    <p className="text-red-500 text-lg md:text-2xl font-bold  p-2 slide-in-left">
     PIZZA OF THE DAY
     </p>
     <h1 className="text-white text-4xl md:text-6xl lg:text-8xl font-semibold mt-2 slide-in-left">
